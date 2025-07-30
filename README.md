@@ -99,14 +99,6 @@ sudo setoolkit
 
 ---
 
-## ✍️ Autor
-
-**Samuel Alves Pereira**  
-- 💼 Linkedin:(https://www.linkedin.com/in/samuel-alves-pereira)  
-- 🔗 GitHub: [https://github.com/brasill]
-
----
-
 ## 📎 Referências
 
 - https://github.com/cassiano-dio/cibersecurity-desafio-phishing
