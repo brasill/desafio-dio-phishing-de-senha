@@ -102,7 +102,7 @@ sudo setoolkit
 ## ✍️ Autor
 
 **Samuel Alves Pereira**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-alves-pereira)  
+- 💼 Linkedin:(https://www.linkedin.com/in/samuel-alves-pereira)  
 - 🔗 GitHub: [https://github.com/brasill]
 
 ---
