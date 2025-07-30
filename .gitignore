@@ -1,0 +1,17 @@
+# Arquivos de sistema
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Pastas do sistema
+__pycache__/
+node_modules/
+.env
+
+# Arquivos sensíveis
+credentials.txt
+*.key
+*.pem
+*.crt
